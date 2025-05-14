@@ -393,5 +393,17 @@
     "byte_offset": 16,
     "bit_offset": 1,
     "bit_size": 1
+  },
+    "7/800 MHz Band Multibit 1/2": {
+    "byte_offset": 3,
+    "bit_offset": 3,
+    "bit_size": 1
+  },
+    "7/800 MHz Band Multibit 2/2": {
+    "byte_offset": 3,
+    "bit_offset": 4,
+    "bit_size": 1
   }
+  
+  
 }
